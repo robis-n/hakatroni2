@@ -1,0 +1,6 @@
+product_id,product_name,category,reorder_threshold,supplier_lead_time_days
+P100,Hydration Bottle,Home,120,8
+P200,Yoga Mat Pro,Fitness,60,10
+P300,Protein Mixer,Fitness,80,6
+P400,Desk Organizer,Office,70,12
+P500,Smart LED Lamp,Electronics,40,14
